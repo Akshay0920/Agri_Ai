@@ -48,7 +48,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/agri-ai-app.git](https://github.com/your-username/agri-ai-app.git)
+    git clone https://github.com/Akshay0920/Agri_Ai
     cd agri-ai-app
     ```
 
@@ -116,5 +116,3 @@ To get a local copy up and running, follow these simple steps.
 ## 🤝 Contact
 
 Akshay – [akshaysainam6.com](mailto:akshaysainam6.com)
-
-Project Link: [https://github.com/your-username/agri-ai-app](https://github.com/your-username/agri-ai-app)
